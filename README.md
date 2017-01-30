@@ -1,2 +1,2 @@
 # malavika
-Directed Study Assignment Solution Attempts
+Directed Study Assignments Solution Attempts
